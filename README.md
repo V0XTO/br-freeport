@@ -1,5 +1,5 @@
-# br-freeport
-## How to use
+# br-freeport 🦀
+## How to use 🤔 ?
 
 ```
 import findAvailablePort from 'br-freeport/src/index.mjs'
